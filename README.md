@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aswathy
-- 👀 I’m interested in Web and App Development
+- 👀 I’m interested in UI/UX and Web development
 - 🌱 I’m currently learning ...
 - 📫 How to reach me aswathy3k@gmail.com
 
