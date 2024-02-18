@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathiek&show_icons=true&title_color=6a2020&locale=en&layout=compact" alt="aswathiek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswathiek&show_icons=true&title_color=121212&locale=en" alt="aswathiek" /></p>
+
 
